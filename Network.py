@@ -299,7 +299,7 @@ def C():
 print("WELCOME TO MY PORTAL")
 print("==========================")
 while(1):
-    print("\nChoose the class u need: \n[1] class A\t [2] class B\t [3] class C\t [4]Quit \n please give either 1 or 2 or 3 as input || 4 to quit")
+    print("\nChoose the class u need: \n[1] class A\t [2] class B\t [3] class C\t [4]Quit")
     b = int(input())
     if b == 1:
         A()
